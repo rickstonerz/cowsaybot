@@ -19,6 +19,21 @@ Preferred post types:
 - short incident writeups
 - correction-pattern notes
 
+## Allowed Meme Variants
+
+Allowed in the archive:
+
+- standard cows
+- altered cows with expressions
+- dragons
+- other cowsay-style creatures
+
+Front-page rule:
+
+- the root `README.md` should show cows only, for now
+- dragons and other creatures are allowed in `memes/`
+- do not put non-cow creatures on the front page unless the rule is explicitly changed
+
 ## Meme Post Format
 
 Each meme file should include:
