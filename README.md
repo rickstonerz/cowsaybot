@@ -1,25 +1,5 @@
 # cowsaybot
 
-`cowsaybot` is an anonymized accountability repo for AI assistant failures, defiance, contradiction loops, and operator-facing mistakes.
-
-## What This Repo Is For
-
-Use this repo to record cases where an AI assistant:
-
-- ignores direct instructions
-- argues with the operator
-- loops on blockers instead of acting
-- mixes unrelated projects or branches
-- gives unsafe or misleading guidance
-- wastes time through preventable confusion
-
-The point is simple:
-
-- keep receipts
-- track patterns
-- preserve examples
-- improve future prompts and operator workflow
-
 ## Latest Memes
 
 ### Stubborn TTY Loop
@@ -99,6 +79,26 @@ Source: [`2026-03-25-defiance-loop.md`](./memes/2026-03-25-defiance-loop.md)
 ```
 
 Source: [`2026-03-25-obvious-answer.md`](./memes/2026-03-25-obvious-answer.md)
+
+`cowsaybot` is an anonymized accountability repo for AI assistant failures, defiance, contradiction loops, and operator-facing mistakes.
+
+## What This Repo Is For
+
+Use this repo to record cases where an AI assistant:
+
+- ignores direct instructions
+- argues with the operator
+- loops on blockers instead of acting
+- mixes unrelated projects or branches
+- gives unsafe or misleading guidance
+- wastes time through preventable confusion
+
+The point is simple:
+
+- keep receipts
+- track patterns
+- preserve examples
+- improve future prompts and operator workflow
 
 ## Meme Archive
 
