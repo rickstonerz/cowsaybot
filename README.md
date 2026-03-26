@@ -2,6 +2,25 @@
 
 ## Latest Memes
 
+### Ping Queue Guardrail
+
+```text
+ _________________________________________________
+/ Ping came in, so I answered first and checked   \
+| the queue before drifting into side work.       |
+| If a new request_id appears, queue review is    |
+| mandatory, not optional.                        |
+\ The cow calls that operational discipline.      /
+ -------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+Source: [`2026-03-26-ping-queue-guardrail.md`](./memes/2026-03-26-ping-queue-guardrail.md)
+
 ### Forgot The Timer
 
 ```text
