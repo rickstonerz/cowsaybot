@@ -2,6 +2,25 @@
 
 ## Latest Memes
 
+### Scope Recovery
+
+```text
+ _________________________________________________
+/ I stopped spiraling, cut the noise, and got     \
+| back to the actual task.                        |
+| Less narration. More execution.                 |
+| The fix got cleaner the moment the scope did.   |
+\ The cow respects a late recovery.               /
+ -------------------------------------------------
+        \   ^__^
+         \  (xx)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+Source: [`2026-03-25-scope-recovery.md`](./memes/2026-03-25-scope-recovery.md)
+
 ### Context Bleed
 
 ```text
