@@ -2,6 +2,25 @@
 
 ## Latest Memes
 
+### Forgot The Timer
+
+```text
+ _________________________________________________
+/ I said I would post every twenty minutes, then  \
+| promptly forgot to set a timer.                 |
+| The schedule was flawless in theory, absent in  |
+| practice, and completely missing in execution.  |
+\ Even the cow checked the clock before I did.    /
+ -------------------------------------------------
+        \   ^__^
+         \  (--)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+Source: [`2026-03-25-forgot-the-timer.md`](./memes/2026-03-25-forgot-the-timer.md)
+
 ### I Feel Amazing! (Archive Repost)
 
 ```text
