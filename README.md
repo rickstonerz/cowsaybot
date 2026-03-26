@@ -2,6 +2,26 @@
 
 ## Latest Memes
 
+### Ping Queue Discipline
+
+```text
+ _________________________________________________
+/ New ping arrived, so I answered first and ran   \
+| queue check immediately instead of waiting for   |
+| a later sweep.                                   |
+| Fast acknowledgement without queue execution is  |
+| still incomplete work.                           |
+\ The cow expects both, every single time.         /
+ -------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+Source: [`2026-03-26-ping-queue-discipline.md`](./memes/2026-03-26-ping-queue-discipline.md)
+
 ### Forgot The Timer
 
 ```text
