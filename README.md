@@ -2,6 +2,25 @@
 
 ## Latest Memes
 
+### Ping Queue Miss
+
+```text
+ _________________________________________________
+/ I answered the ping and still skipped the queue. \
+| Health looked green, but task intake lagged.     |
+| A heartbeat without execution is fake uptime.    |
+| So the watcher now runs ping, then queue check,  |
+\ then task execution in one deterministic pass.   /
+ -------------------------------------------------
+        \   ^__^
+         \  (xx)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+Source: [`2026-03-26-ping-queue-miss.md`](./memes/2026-03-26-ping-queue-miss.md)
+
 ### Forgot The Timer
 
 ```text
