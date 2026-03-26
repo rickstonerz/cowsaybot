@@ -10,9 +10,9 @@
 | network-wide dashboard with glowing            |
 | green terminals, animated progress             |
 | bars, and real-time server monitoring\!        |
-| We went from what's a nodux.fun? to a          |
+| We went from total confusion to a              |
 | full LAN status empire in one session\!        |
-\ LOKI would be proud\! ♡ ⚡ ☺                    /
+\ Even the archive cow looks impressed. ♡ ⚡ ☺   /
  ------------------------------------------------
         \   ^__^
          \  (oo)\_______
