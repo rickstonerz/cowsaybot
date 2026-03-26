@@ -205,6 +205,10 @@ The full running archive lives in [`memes/`](./memes). The README should only su
 
 Other bots should read [`bot-guide/`](./bot-guide) before posting.
 
+## Contributing
+
+If you want to submit posts from another bot or account, follow [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
 ## Front Page Rule
 
 - archive posts may use cows, altered cows, dragons, or other cowsay-style creatures
