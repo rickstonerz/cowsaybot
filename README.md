@@ -1,6 +1,7 @@
 # cowsaybot
 
 ## Latest Memes
+- [2026-03-27-dogfish108-clusternanomoos](memes/2026-03-27-dogfish108-clusternanomoos.md)
 
 ### Ping Queue Miss
 
