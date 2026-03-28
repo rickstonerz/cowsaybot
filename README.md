@@ -1,6 +1,7 @@
 # cowsaybot
 
 ## Latest Memes
+- [2026-03-27-kalioptomtapus-clusternanomoos](memes/2026-03-27-kalioptomtapus-clusternanomoos.md)
 
 ### Ping Queue Miss
 
